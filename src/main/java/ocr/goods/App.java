@@ -40,7 +40,7 @@ public class App extends AppServiceEngineImpl
     	App app = new App();
 
     	AppServiceEngineImpl.internalMain("log4j2.xml",
-    										"ocr-channel-manager.json", 
+    										"ocr-goods.center.json", 
     										app);
     	
     }   
