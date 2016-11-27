@@ -1,0 +1,7 @@
+一、商品分类树查询
+message api：ocr-goods-center.sales-catelog-mgr.findtree
+rest api: ocr-goods-center/sales-catelog-mgr/findtree, http: GET
+input: 
+output: vo[ba_sales_catelogs_tree]
+
+
