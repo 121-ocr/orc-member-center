@@ -57,6 +57,9 @@ public class GoodsComponent extends AppActivityImpl {
 		GoodsQueryHandler queryHandler = new GoodsQueryHandler(this);
 		ret.add(queryHandler);
 		
+		GoodsFindOneQueryHandler goodsFindOneQueryHandler = new GoodsFindOneQueryHandler(this);
+		ret.add(goodsFindOneQueryHandler);
+		
 		return ret;
 	}
 
