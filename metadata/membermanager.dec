@@ -1,0 +1,22 @@
+字段名称	含义	字段类型
+----------------------
+vipno	会员卡号	String 
+name	姓名	String
+sex	性别	Sex
+birthDate	生日	Date
+vipClass	级别	String
+discountRate	折扣率	double
+bonusRate	积分率	double
+totalBuyTime	消费次数	int
+totalBuyNum	消费数量	int
+totalBuyAmt	消费金额	double
+recentBouns	当前积分	int
+balance	当前余额	double
+availableNum	可用次数	int
+lastBuyAmt	上次消费金额	double
+phone	       手机        	String
+email	       邮箱	        String
+address	      地址	        String
+openDate    开卡日期   	Date
+comment	      备注	        String
+createDate	创建日期        Date

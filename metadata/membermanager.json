@@ -1,0 +1,45 @@
+[
+	{
+		"vipno": "898080",
+		"vipClass": "3",
+		"discountRate": 0.8,
+		"balance": "90",
+		"availableNum": 1,
+		"lastBuyAmt": 89,
+		"totalBuy": 
+		{
+			"totalBuyTime": "3",
+			"totalBuyNum": 90,
+			"totalBuyAmt": 898.0
+		},
+
+		"bonus": 
+		{
+			"bonusRate": 0.9,
+			"recentBouns": 8
+		},
+
+		"vipuser": 
+		{
+			"name": "tracy",
+			"sex": "男",
+			"birthDate": "2017年3月26日",
+			"phone": "1908980807",
+			"email": "9897@163.com",
+			"address": 
+			{
+				"region": 
+				{
+					"code": "110115",
+					"full_name": "北京市大兴区"
+				},
+
+				"address_detail": "XXX街道38号,1层1012室"
+			}
+		},
+
+		"openDate": "2017-09-09",
+		"createDate": "2017-09-09",
+		"comment": "备注"
+	}
+]

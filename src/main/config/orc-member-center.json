@@ -1,17 +1,17 @@
 {
-	"main": "ocr.goods.App",
+	"main": "ocr.member.App",
 	"options": {
 		"config": {
-			"version_id": 5,
-			"service_name": "ocr-goods-center",
+			"version_id": 12,
+			"service_name": "orc-member-center",
 			"app_inst_scope": ["1~1000"],
-			"app_desc": "商品中心服务",
+			"app_desc": "会员中心服务",
 			"master_role": "2",
 			"distributed_node_index": 0,
 			"isolation_vertx_pool": false,			
 			"run_webserver": true,
 			"webserver_config": {
-				"webserver_port": 8081,
+				"webserver_port": 8087,
 				"eventbus_enabled": true,
 				"static_res_service": true
 			},

@@ -9,7 +9,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>ocr-goods-center</artifactId>
+	<artifactId>orc-member-center</artifactId>
 
 	<dependencies>
 
@@ -17,7 +17,11 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 		</dependency>
-		
+		<dependency>
+			<groupId>otocloud</groupId>
+			<artifactId>ocr-common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>otocloud</groupId>
 			<artifactId>otocloud-common</artifactId>
